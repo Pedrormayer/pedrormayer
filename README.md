@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🚀, I'm Pedro Mayer</h1>
 <h3 align="center">Started my studies in Data Analysis in 2022 and I'm passionate about it</h3>
 
-- 👨‍💻 I’m currently working on **BI for a Law Firm**
+- 👨‍💻 I’m currently working on **BI for a textile company**
 
-- 🌱 I’m currently learning **Power BI, SQL and Python**
+- 🌱 I’m currently learning **SQL and Python**
 
 - 📫 How to reach me **pedromayer94@gmail.com**
 
